@@ -1,0 +1,24 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="lmartingrx.github.io/ayuda_desarrollo" resolutions="1x" timestamp="1517237628170">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="279103732" ref="index"/>
+    <file name="iefonts_index.css" crc="388440218" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4179431180" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="annie-spratt-135307ok.jpg" crc="209845192" ref="index"/>
+    <file name="logo.png" crc="3951328291" ref="index"/>
+    <file name="evolucion_espaaaaana.jpg" crc="4288591160" ref="index"/>
+    <file name="ayudagenuindddd-01.jpg" crc="444738028" ref="index"/>
+    <file name="logo aecid.jpg" crc="522675822" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="215821517" seo="true" mt="1517237580778" redirect="true"/>
+</manifest>
